@@ -3,8 +3,8 @@ Muhammad Iqbal Junialdi / A11.2024.15636
 OOP PHP - Praktikum PWL
 Project ini berisi latihan OOP PHP berdasarkan:
 
-1. Modul praktikum
-2. Materi PPT
+-  Modul praktikum
+-  Materi PPT
 Isi Project
 1. lat1 : dasar class & object
 2. lat2 : access modifier
